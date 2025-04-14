@@ -1,6 +1,6 @@
 [gd_scene load_steps=5 format=3 uid="uid://ddy1eu4tsa14l"]
 
-[ext_resource type="Script" path="res://Assets/Modelos/enemy_bullet.gd" id="1_pnjnc"]
+[ext_resource type="Script" uid="uid://bo5isbb63j74f" path="res://Assets/Modelos/enemy_bullet.gd" id="1_pnjnc"]
 
 [sub_resource type="CapsuleMesh" id="CapsuleMesh_dq12q"]
 radius = 1.0

@@ -1,10 +1,10 @@
 [gd_scene load_steps=10 format=3 uid="uid://b1lrhd8q2bbk2"]
 
 [ext_resource type="PackedScene" uid="uid://b618y83uev13h" path="res://Assets/Modelos/models/ship_2.tscn" id="2_2vud7"]
-[ext_resource type="Script" path="res://Assets/Scripts/MovementSystem/movement_controller.gd" id="2_wakya"]
+[ext_resource type="Script" uid="uid://bx1de4ylopn03" path="res://Assets/Scripts/MovementSystem/movement_controller.gd" id="2_wakya"]
 [ext_resource type="Material" uid="uid://bx162vcuwf8c1" path="res://Assets/Shaders/engine_flame.tres" id="3_7dnpo"]
 [ext_resource type="AudioStream" uid="uid://b8krq7o6w17ua" path="res://Assets/Sounds/jetsfx.mp3" id="4_y2ol2"]
-[ext_resource type="Script" path="res://Assets/Modelos/player_collision_detection.gd" id="5_vcod3"]
+[ext_resource type="Script" uid="uid://blib6gbkq4l2m" path="res://Assets/Modelos/player_collision_detection.gd" id="5_vcod3"]
 [ext_resource type="AudioStream" uid="uid://jll7n2f1jm6c" path="res://Assets/Sounds/SpaceGun.mp3" id="6_7xlec"]
 
 [sub_resource type="SphereMesh" id="SphereMesh_ywaig"]

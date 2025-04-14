@@ -1,6 +1,6 @@
 [gd_scene load_steps=4 format=3 uid="uid://bkl70ygy5h82o"]
 
-[ext_resource type="Script" path="res://Assets/Cenas/kill_score.gd" id="1_oou8v"]
+[ext_resource type="Script" uid="uid://dye2xmdemp44k" path="res://Assets/Cenas/kill_score.gd" id="1_oou8v"]
 [ext_resource type="FontFile" uid="uid://dm2tmfiao8ak5" path="res://Assets/Fontes/SPACE.ttf" id="2_xkaww"]
 
 [sub_resource type="LabelSettings" id="LabelSettings_n14od"]
